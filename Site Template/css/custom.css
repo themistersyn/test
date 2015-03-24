@@ -1,0 +1,41 @@
+.jumbotron {
+  background: #4B77BE;
+  background: -webkit-linear-gradient(#7cb4f5, #4b77be);
+  background: -moz-linear-gradient(#7cb4f5, #4b77be);
+  background: -o-linear-gradient(#7cb4f5, #4b77be);
+  background: linear-gradient(#7cb4f5, #4b77be);
+  color: white;
+  padding: 100px 0px 100px 0px;
+}
+
+.btn {
+  border-radius: 0px;
+}
+
+.btn-primary {
+  border-bottom: 2px solid #0243ab;
+  border-left: 1px solid #0243ab;
+}
+
+.btn-info {
+  border-bottom: 2px solid #009fad;
+  border-left: 1px solid #009fad;
+}
+
+.btn-success {
+  border-bottom: 2px solid #02ab3a;
+  border-left: 1px solid #02ab3a;
+}
+
+.btn-danger {
+  border-bottom: 2px solid #aa0322;
+  border-left: 1px solid #aa0322;
+}
+
+.navbar {
+  border-radius: 0px;
+}
+
+body {
+  padding-top: 50px;
+}
